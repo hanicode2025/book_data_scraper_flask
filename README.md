@@ -15,3 +15,11 @@ Python project that scrapes product data from an e-commerce demo site and displa
 - Scraped data includes: Book Title, Price, Rating  
 
 **Project Structure:**  
+ecommascrapper/
+├── app.py # Flask application
+├── books.py # Scraper script using BeautifulSoup
+├── books.csv # Scraped data in CSV format
+├── books.json # Optional JSON export
+├── templates/
+│ └── index.html # HTML page for dashboard
+└── README.md # Project documentation
