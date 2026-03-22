@@ -23,3 +23,13 @@ ecommascrapper/
 ├── templates/
 │ └── index.html # HTML page for dashboard
 └── README.md # Project documentation
+
+
+**Key Skills Demonstrated:**  
+- Data collection & cleaning from web sources  
+- Flask web integration and dynamic data presentation  
+- Python scripting & automation  
+- Basic data visualization via HTML tables  
+
+**Author:** Haneesh Tadepalli  
+[LinkedIn](https://linkedin.com/in/haneeshtadepalli) | [GitHub](https://github.com/hanicode2025)
